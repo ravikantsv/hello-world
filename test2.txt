@@ -1,1 +1,2 @@
 Second file first line!
+Second file second line!
